@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Blume Community Server
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Nothing
-- 🤔 I’m looking for help with Javascript & Djs
+- 🔭 I currently own Lunar Nodes
+- 🌱 I’m currently working on Improving Lunar Nodes
 - 💬 Ask me about coding things
 - 📫 How to reach me: @josipfx on discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: No fun facts
+- ⚡ Fun fact: Love dogs & cats and coding
