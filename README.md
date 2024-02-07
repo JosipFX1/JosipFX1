@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I currently own Lunar Nodes
-- 🌱 I’m currently working on Improving Lunar Nodes
+- 🔭 I currently own Blume World | dsc.gg/blumeworld
+- 🌱 I’m currently working on Improving Blume World
 - 💬 Ask me about coding things
 - 📫 How to reach me: @josipfx on discord
 - 😄 Pronouns: he/him
